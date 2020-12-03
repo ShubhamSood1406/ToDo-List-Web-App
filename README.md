@@ -1,4 +1,5 @@
 <b> About </b>
+<br>
 Made a ToDoList web app with the use of Node, Mongo DB and Express. A user can be able to add and remove items on the daily basis.
 
 <b>Heroku hosted link to TODO List web-app</b> https://immense-falls-86949.herokuapp.com/          
